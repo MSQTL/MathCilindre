@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\netcoreapp3.1\MathTaskClassLibrary.deps.json
+C:\Users\user\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\netcoreapp3.1\MathTaskClassLibrary.dll
+C:\Users\user\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\netcoreapp3.1\MathTaskClassLibrary.pdb
+C:\Users\user\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.AssemblyInfo.cs
+C:\Users\user\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.dll
+C:\Users\user\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\netcoreapp3.1\MathTaskClassLibrary.pdb
